@@ -12,4 +12,4 @@
   }
 ```
 >
-> ## [凯胜软件](www.kaishengit.com)
+> [@ihubo](http://twitter.com/ihubo)
