@@ -158,3 +158,11 @@ java.io.FileNotFoundException: D:\git-demo\.metadata\.plugins\org.eclipse.m2e.co
 2018-03-20 17:18:52,276 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of app
 2018-03-20 17:18:52,276 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for app
 2018-03-20 17:18:52,279 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-20 17:21:16,713 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kaishengit:app:1.0-SNAPSHOT @ D:\git-demo\app\pom.xml.
+2018-03-20 17:21:17,260 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-20 17:21:17,264 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-20 17:21:17,267 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-20 17:21:17,268 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\git-demo\app\src\test\resources
+2018-03-20 17:21:17,268 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of app
+2018-03-20 17:21:17,268 [Worker-49] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for app
+2018-03-20 17:21:17,276 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
